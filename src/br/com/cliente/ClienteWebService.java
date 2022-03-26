@@ -1,7 +1,7 @@
 package br.com.cliente;
 
 import org.apache.http.client.fluent.Request;
-
+ 
 public class ClienteWebService {
 
 	public static void main(String[] args) throws Exception {
